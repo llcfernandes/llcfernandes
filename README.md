@@ -1,8 +1,8 @@
 # 👨‍💻 Lucas Fernandes
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`**
 
-Me chamo Lucas Fernandes, tenho 18 anos, sou carioca e apaixonado por tecnologia e desenvolvimento de projetos. Sou Desenvolvedor Front-End, focado no aprendizado avançado de JavaScript. Atualmente curso o 3º período de Análise e Desenvolvimento de Sistemas pela Estácio e sou membro do DevClub Full Stack. Comprometido com o aprimoramento contínuo e com a criação de soluções de alto nível.
+Me chamo Lucas Fernandes, tenho 18 anos, sou carioca e apaixonado por tecnologia e desenvolvimento de projetos. Sou Desenvolvedor Front-End com foco em JavaScript e estou iniciando meus estudos em Back-End com Node.js, me tornando assim um Desenvolvedor Full Stack iniciante. Atualmente curso o 3º período de Análise e Desenvolvimento de Sistemas pela Estácio e sou membro do DevClub Full Stack. Comprometido com o aprendizado contínuo e com a construção de soluções de qualidade.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llc_fernandes/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucas-fernandes/)

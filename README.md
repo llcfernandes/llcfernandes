@@ -6,24 +6,6 @@ Sou um desenvolvedor em formação, focado em me tornar um profissional Full Sta
 
 Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (4º período) e busco uma oportunidade de estágio Full Stack, onde posso aplicar meus conhecimentos, aprender com profissionais experientes e entregar soluções de qualidade.
 
-Principais competências:
-
-Desenvolvimento Front-end: React.js, Styled-components, HTML, CSS, JavaScript
-
-Desenvolvimento Back-end: Node.js, Express, APIs REST, bancos de dados relacionais e não relacionais (Prisma, MongoDB)
-
-Controle de versão: Git e GitHub
-
-Gerenciamento de pacotes: npm e Yarn
-
-Experiência em integração de projetos Full Stack e boas práticas de UX
-
-Projetos recentes:
-
-Food Landing Page: Landing page responsiva para restaurante/delivery, com foco em design atrativo, navegação intuitiva e pedidos via WhatsApp.
-
-API de Cadastro de Usuários + Front-end React: API REST em Node.js com Prisma e MongoDB, integrada a aplicação React com Vite e Styled-components.
-
 Sou proativo, comprometido e rápido no aprendizado, sempre buscando entregar soluções funcionais e bem estruturadas.
 📩 Vamos conversar! Me mande uma mensagem aqui no LinkedIn: https://www.linkedin.com/in/lucasfernandes-fullstack .
 

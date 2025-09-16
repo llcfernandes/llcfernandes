@@ -57,22 +57,6 @@ Sou proativo, comprometido e rápido no aprendizado, sempre buscando entregar so
   />
     <img 
     align="left"
-    alt="TAILWIND"
-    title="TAILWIND"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindd/tailwind-plain-wordmark.svg"
-  />
-    <img 
-    align="left"
-    alt="TYPESCRIPT"
-    title="TYPESCRIPT"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain-wordmark.svg"
-  />
-    <img 
-    align="left"
     alt="GIT"
     title="GIT"
     width="30px"

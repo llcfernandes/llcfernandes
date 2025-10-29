@@ -9,7 +9,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (4º períod
 Sou proativo, comprometido e rápido no aprendizado, sempre buscando entregar soluções funcionais e bem estruturadas.
 📩 Vamos conversar! Me mande uma mensagem aqui no LinkedIn: https://www.linkedin.com/in/lucasfernandes-fullstack .
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llc_fernandes/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmividi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucas-fernandes/)
 ---
 

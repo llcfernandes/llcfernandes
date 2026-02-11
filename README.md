@@ -80,7 +80,8 @@ Sou proativo, comprometido e rápido no aprendizado, sempre buscando entregar so
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
   />
-  
+
+  ---
   
 
 

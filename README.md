@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor em formação, focado em me tornar um profissional Full Stack, com experiência prática em React.js, Node.js, TypeScript, Express, Prisma e MongoDB. Minha experiência foi construída principalmente por meio de projetos pessoais e do curso DevClub com Rodolfo Mori, onde desenvolvi habilidades de front-end e back-end, integração de APIs e boas práticas de desenvolvimento.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (4º período) e busco uma oportunidade de estágio Full Stack, onde posso aplicar meus conhecimentos, aprender com profissionais experientes e entregar soluções de qualidade.
+Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (5º período) e busco uma oportunidade de estágio Full Stack, onde posso aplicar meus conhecimentos, aprender com profissionais experientes e entregar soluções de qualidade.
 
 Sou proativo, comprometido e rápido no aprendizado, sempre buscando entregar soluções funcionais e bem estruturadas.
 📩 Vamos conversar! Me mande uma mensagem aqui no LinkedIn: https://www.linkedin.com/in/lucasfernandes-fullstack .

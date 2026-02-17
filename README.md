@@ -17,7 +17,6 @@ Algumas partes deste repositório podem não estar perfeitas, pois fazem parte d
 Alguns repositórios serão escritos totalmente em inglês (README, commits e descrições) como forma de treino e prática constante.
 
 Estou comprometido com minha evolução contínua.
----
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmividi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucas-fernandes/)

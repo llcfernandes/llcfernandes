@@ -9,7 +9,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (5º períod
 Sou proativo, comprometido e rápido no aprendizado, sempre buscando entregar soluções funcionais e bem estruturadas.
 📩 Vamos conversar! Me mande uma mensagem aqui no LinkedIn: https://www.linkedin.com/in/lucasfernandes-fullstack .
 
-## 🌍 Aprendendo Inglês
+🌍 Aprendendo Inglês
 
 Atualmente estou aprendendo inglês e tentando evoluir todos os dias.  
 Algumas partes deste repositório podem não estar perfeitas, pois fazem parte do meu processo de aprendizado.

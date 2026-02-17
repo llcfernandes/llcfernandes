@@ -9,6 +9,16 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (5º períod
 Sou proativo, comprometido e rápido no aprendizado, sempre buscando entregar soluções funcionais e bem estruturadas.
 📩 Vamos conversar! Me mande uma mensagem aqui no LinkedIn: https://www.linkedin.com/in/lucasfernandes-fullstack .
 
+## 🌍 Aprendendo Inglês
+
+Atualmente estou aprendendo inglês e tentando evoluir todos os dias.  
+Algumas partes deste repositório podem não estar perfeitas, pois fazem parte do meu processo de aprendizado.
+
+Alguns repositórios serão escritos totalmente em inglês (README, commits e descrições) como forma de treino e prática constante.
+
+Estou comprometido com minha evolução contínua.
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmividi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucas-fernandes/)
 

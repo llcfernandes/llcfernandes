@@ -7,7 +7,6 @@ Sou um desenvolvedor em formação, focado em me tornar um profissional Full Sta
 Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (5º período) e busco uma oportunidade de estágio Full Stack, onde posso aplicar meus conhecimentos, aprender com profissionais experientes e entregar soluções de qualidade.
 
 Sou proativo, comprometido e rápido no aprendizado, sempre buscando entregar soluções funcionais e bem estruturadas.
-📩 Vamos conversar! Me mande uma mensagem aqui no LinkedIn: https://www.linkedin.com/in/lucasfernandes-fullstack .
 
 Atualmente estou aprendendo inglês e tentando evoluir todos os dias.  
 Algumas partes deste repositório podem não estar perfeitas, pois fazem parte do meu processo de aprendizado.

@@ -2,18 +2,17 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Sou um desenvolvedor em formação, focado em me tornar um profissional Full Stack, com experiência prática em React.js, Node.js, TypeScript, Express, Prisma e MongoDB. Minha experiência foi construída principalmente por meio de projetos pessoais e do curso DevClub com Rodolfo Mori, onde desenvolvi habilidades de front-end e back-end com foco em clean code, integração de APIs e boas práticas de desenvolvimento.
+Como um aspirante a desenvolvedor Full Stack, estou atualmente em formação, com uma base sólida em tecnologias como React.js, Node.js, TypeScript, Express, Prisma e MongoDB. Minha experiência foi adquirida através de projetos pessoais e do curso DevClub, ministrado por Rodolfo Mori, onde aprimorei minhas habilidades tanto em front-end quanto em back-end, com ênfase em clean code, integração de APIs e aderência às melhores práticas de desenvolvimento.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (5º período) e busco uma oportunidade de estágio Full Stack, onde posso aplicar meus conhecimentos, aprender com profissionais experientes e entregar soluções de qualidade.
+Estou no 5º período do curso de Análise e Desenvolvimento de Sistemas na Estácio e estou em busca de uma oportunidade de estágio como desenvolvedor Full Stack. Meu objetivo é aplicar os conhecimentos que adquiri, aprender com profissionais experientes e contribuir com soluções de alta qualidade.
 
-Sou proativo, comprometido e rápido no aprendizado, sempre buscando entregar soluções funcionais e bem estruturadas.
+Pauto meu trabalho pela proatividade, comprometimento e rapidez no aprendizado, mantendo sempre o foco em entregar soluções funcionais e bem estruturadas.
 
-Atualmente estou aprendendo inglês e tentando evoluir todos os dias.  
-Algumas partes deste repositório podem não estar perfeitas, pois fazem parte do meu processo de aprendizado.
+No momento, estou aprimorando meu domínio do inglês e me esforço para evoluir um pouco todos os dias. Por isso, é importante ressaltar que algumas partes deste repositório estão em constante aprimoramento, pois fazem parte do meu processo de aprendizado contínuo.
 
-Alguns repositórios serão escritos totalmente em inglês (README, commits e descrições) como forma de treino e prática constante.
+Também estou empenhado em escrever alguns repositórios inteiramente em inglês (incluindo READMEs, commits e descrições) como parte do meu treinamento e prática constante.
 
-Estou comprometido com minha evolução contínua.
+Estou firmemente comprometido com meu desenvolvimento contínuo e sempre busco maneiras de me aperfeiçoar como profissional.
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmividi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucas-fernandes/)

@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Como um aspirante a desenvolvedor Full Stack, estou atualmente em formação, com uma base sólida em tecnologias como React.js, Node.js, TypeScript, Express, Prisma e MongoDB. Minha experiência foi adquirida através de projetos pessoais e do curso DevClub, ministrado por Rodolfo Mori, onde aprimorei minhas habilidades tanto em front-end quanto em back-end, com ênfase em clean code, integração de APIs e aderência às melhores práticas de desenvolvimento.
+Como um aspirante a desenvolvedor Full Stack, estou atualmente em formação, com uma base sólida em tecnologias como React.js, Node.js, TypeScript, JavaScript, Express, Prisma e MongoDB. Minha experiência foi adquirida através de projetos pessoais e do curso DevClub, ministrado por Rodolfo Mori, onde aprimorei minhas habilidades tanto em front-end quanto em back-end, com ênfase em clean code, integração de APIs e aderência às melhores práticas de desenvolvimento.
 
 Estou no 5º período do curso de Análise e Desenvolvimento de Sistemas na Estácio e estou em busca de uma oportunidade de estágio como desenvolvedor Full Stack. Meu objetivo é aplicar os conhecimentos que adquiri, aprender com profissionais experientes e contribuir com soluções de alta qualidade.
 

@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Como um aspirante a desenvolvedor Full Stack, estou atualmente em formação, com uma base sólida em tecnologias como React.js, Node.js, TypeScript, JavaScript, Express, Prisma e MongoDB. Minha experiência foi adquirida através de projetos pessoais e do curso DevClub, ministrado por Rodolfo Mori, onde aprimorei minhas habilidades tanto em front-end quanto em back-end, com ênfase em clean code, integração de APIs e aderência às melhores práticas de desenvolvimento.
+Sou Desenvolvedor Full Stack com foco em React e Node.js, apaixonado por tecnologia e por transformar ideias em aplicações web modernas e bem estruturadas. Desde o início da minha jornada na área de tecnologia, sempre tive curiosidade em entender como as aplicações que usamos no dia a dia são construídas. Essa curiosidade me levou a mergulhar no desenvolvimento web, dedicando grande parte do meu tempo ao estudo e à construção de projetos práticos.
+
+Atualmente desenvolvo aplicações web utilizando React no front-end e Node.js no back-end, trabalhando com JavaScript e TypeScript para criar interfaces modernas e integrar sistemas através de APIs REST. Tenho grande interesse em arquitetura de aplicações, organização de código e boas práticas de desenvolvimento, sempre buscando construir soluções performáticas e de fácil manutenção.
 
 Estou no 5º período do curso de Análise e Desenvolvimento de Sistemas na Estácio e estou em busca de uma oportunidade de estágio como desenvolvedor Full Stack. Meu objetivo é aplicar os conhecimentos que adquiri, aprender com profissionais experientes e contribuir com soluções de alta qualidade.
-
-Pauto meu trabalho pela proatividade, comprometimento e rapidez no aprendizado, mantendo sempre o foco em entregar soluções funcionais e bem estruturadas.
 
 No momento, estou aprimorando meu domínio do inglês e me esforço para evoluir um pouco todos os dias. Por isso, é importante ressaltar que algumas partes deste repositório estão em constante aprimoramento, pois fazem parte do meu processo de aprendizado contínuo.
 

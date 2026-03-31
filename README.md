@@ -13,7 +13,7 @@ No momento, estou aprimorando meu domínio do inglês e me esforço para evoluir
 Estou firmemente comprometido com meu desenvolvimento contínuo e sempre busco maneiras de me aperfeiçoar como profissional.
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmividi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucas-fernandes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfernandes-fullstack/)
 
 ---
 💻 Linguagens e Tecnologias 

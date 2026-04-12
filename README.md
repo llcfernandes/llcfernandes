@@ -76,6 +76,14 @@ Estou firmemente comprometido com meu desenvolvimento contínuo e sempre busco m
   />
     <img 
     align="left"
+    alt="STYLED COMPONENTS"
+    title="STYLED COMPONENTS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg"
+  />
+    <img 
+    align="left"
     alt="GIT"
     title="GIT"
     width="30px"

@@ -3,7 +3,6 @@
 **`Desenvolvedor Full-Stack`**
 
 Sou Desenvolvedor Full Stack com foco em React e Node.js, apaixonado por tecnologia e por transformar ideias em aplicações web modernas e bem estruturadas. Desde o início da minha jornada na área de tecnologia, sempre tive curiosidade em entender como as aplicações que usamos no dia a dia são construídas. Essa curiosidade me levou a mergulhar no desenvolvimento web, dedicando grande parte do meu tempo ao estudo e à construção de projetos práticos.
-
 Atualmente desenvolvo aplicações web utilizando React no front-end e Node.js no back-end, trabalhando com JavaScript e TypeScript para criar interfaces modernas e integrar sistemas através de APIs REST. Tenho grande interesse em arquitetura de aplicações, organização de código e boas práticas de desenvolvimento, sempre buscando construir soluções performáticas e de fácil manutenção.
 
 Estou no 5º período do curso de Análise e Desenvolvimento de Sistemas na Estácio e estou em busca de uma oportunidade de estágio como desenvolvedor Full Stack. Meu objetivo é aplicar os conhecimentos que adquiri, aprender com profissionais experientes e contribuir com soluções de alta qualidade.

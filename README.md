@@ -14,7 +14,7 @@ Estou firmemente comprometido com meu desenvolvimento contínuo e sempre busco m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfernandes-fullstack/)
 
 ---
-💻 Linguagens e Tecnologias 
+Linguagens e Tecnologias 
 
 <img 
   align="left"

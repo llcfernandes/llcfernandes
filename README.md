@@ -1,4 +1,4 @@
-# 👨‍💻 Lucas Fernandes
+#  Lucas Fernandes
 
 **`Desenvolvedor Full-Stack`**
 

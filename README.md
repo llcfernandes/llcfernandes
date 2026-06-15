@@ -10,7 +10,7 @@ Atualmente desenvolvo aplicações web utilizando React no front-end e Node.js n
 
 Como Desenvolvedor Full Stack, busco aplicar boas práticas de desenvolvimento, Clean Code e organização de código para construir aplicações performáticas, escaláveis e de fácil manutenção. Tenho experiência prática no desenvolvimento de aplicações completas, desde a construção da interface até a integração com APIs, autenticação de usuários e banco de dados.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Estácio.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UNESA.
 
 🎯 Atualmente aberto a oportunidades como Desenvolvedor Full Stack Estagiário ou Desenvolvedor Júnior.
 

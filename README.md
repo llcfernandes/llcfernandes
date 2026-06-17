@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack | React • Node.js • TypeScript**
 
-Sou Desenvolvedor Full Stack com foco em React e Node.js, atuando desde 2024 no desenvolvimento de aplicações web modernas e bem estruturadas. Sou apaixonado por tecnologia e por transformar ideias em soluções digitais eficientes.
+Sou Desenvolvedor Full Stack com foco em React e Node.js, atuando desde 2024 no desenvolvimento de aplicações web modernas e bem estruturadas. Sou apaixonado por tecnologia e por transformar ideias em soluções digitais eficientes. 
 
 Desde o início da minha jornada na área de tecnologia, sempre tive curiosidade em entender como as aplicações que usamos no dia a dia são construídas. Essa curiosidade me levou a mergulhar no desenvolvimento web, dedicando grande parte do meu tempo ao estudo e à construção de projetos práticos.
 

@@ -2,54 +2,63 @@
 
 ### Desenvolvedor Full Stack | React • Node.js • TypeScript
 
-Desenvolvedor Full Stack focado na construção de aplicações web modernas utilizando React no front-end e Node.js no back-end.
+Sou Desenvolvedor Full Stack com foco em React e Node.js, apaixonado por construir aplicações web modernas, escaláveis e bem estruturadas.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos práticos voltados para arquitetura de software, APIs REST, autenticação, bancos de dados relacionais e desenvolvimento de aplicações escaláveis.
+Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos práticos voltados para desenvolvimento Full Stack, APIs REST, bancos de dados relacionais e arquitetura de software.
 
-Meu foco é criar soluções bem estruturadas, aplicando boas práticas de desenvolvimento, Clean Code, componentização, organização de código e integração entre front-end e back-end.
+Tenho experiência com React, Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, Prisma ORM, Sequelize ORM, autenticação com JWT, Docker e integração entre front-end e back-end.
 
----
+🎓 Análise e Desenvolvimento de Sistemas — UNESA
 
-## 🚀 Projetos em Destaque
+🎯 Buscando oportunidades como Desenvolvedor Full Stack Estagiário ou Desenvolvedor Júnior
 
-### 🍔 Dev Burguer API
-Backend para uma plataforma de pedidos de hamburgueria desenvolvido com Node.js, Express, PostgreSQL, Sequelize, JWT, Docker e arquitetura MVC.
-
-**Tecnologias:** Node.js • Express • PostgreSQL • Sequelize • JWT • Docker • Multer • Yup
-
-🔗 https://github.com/llcfernandes/dev-burguer-api
+📚 Aprimorando conhecimentos em Arquitetura de Software, TypeScript, Node e Inglês para Tecnologia.
 
 ---
 
-### 🚀 Agency.AI
-Landing page moderna para agência digital desenvolvida com React, Tailwind CSS e Framer Motion.
+## 🤝 Contato
 
-**Tecnologias:** React • Tailwind CSS • Framer Motion • Vite • Web3Forms
+<p align="left">
+  <a href="mailto:lucasmividi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lucasmividi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-🔗 https://github.com/llcfernandes/interface-agency-ai-in-english-react
-
-🌐 https://interface-agenci-ai-in-english-react-qr6kj9wtd.vercel.app
+  <a href="https://www.linkedin.com/in/lucasfernandes-fullstack/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 👥 Cadastro de Usuários Full Stack
-Aplicação completa para gerenciamento de usuários utilizando React, Node.js, Prisma ORM e MongoDB.
+## 🚀 Projeto Principal
 
-**Tecnologias:** React • Node.js • Express • Prisma ORM • MongoDB
+### 🍔 Dev Burguer API (Projeto Principal em Desenvolvimento)
 
-🔗 Front-end:
-https://github.com/llcfernandes/cadastro-usuarios-react
+Backend de uma plataforma de pedidos para hamburgueria, desenvolvido para simular a arquitetura de aplicações reais utilizando Node.js, Express.js, PostgreSQL, Sequelize ORM, JWT e Docker.
 
-🔗 Back-end:
-https://github.com/llcfernandes/api-cadastro-de-usuarios-node
+Atualmente é meu principal projeto de desenvolvimento, onde aplico conceitos de autenticação, autorização, upload de imagens, persistência de dados, arquitetura MVC, validação de dados e escalabilidade de APIs REST.
+
+🚧 Em evolução contínua com novas funcionalidades:
+
+- Categorias de produtos
+- Sistema de pedidos
+- Controle de permissões
+- Integração com Front-End
+- Deploy em ambiente cloud
+
+**Tecnologias:** Node.js, Express.js, PostgreSQL, Sequelize ORM, JWT, Docker, Multer, Yup e Arquitetura MVC.
+
+🔗 Repositório:
+https://github.com/llcfernandes/dev-burguer-api
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=llcfernandes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llcfernandes&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llcfernandes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llcfernandes&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -58,65 +67,47 @@ https://github.com/llcfernandes/api-cadastro-de-usuarios-node
 
 ---
 
-## 💻 Stack Principal
+## 💻 Tecnologias
 
 ### Front-End
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
+  <img alt="HTML" title="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="React" title="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Vite" title="Vite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
+  <img alt="Tailwind CSS" title="Tailwind CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Styled Components" title="Styled Components" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" />
 </p>
 
 ### Back-End
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img alt="Node.js" title="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Express.js" title="Express.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img alt="Prisma ORM" title="Prisma ORM" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+  <img alt="Sequelize ORM" title="Sequelize ORM" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 </p>
 
 ### Banco de Dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB" title="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </p>
 
 ### Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,vercel" />
+  <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Docker" title="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Vercel" title="Vercel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+  <img alt="VS Code" title="VS Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Figma" title="Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
-
----
-
-## 🏗️ Competências Técnicas
-
-- Desenvolvimento Full Stack
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- Node.js
-- Express.js
-- Prisma ORM
-- Sequelize ORM
-- APIs REST
-- JWT Authentication
-- PostgreSQL
-- MongoDB
-- Docker
-- Git & GitHub
-- Arquitetura MVC
-- Clean Code
-- Responsividade
-- Integração Front-End e Back-End
-
----
-
-## 🎯 Atualmente Desenvolvendo
-
-- Dev Burguer API
-- Arquitetura Backend com Node.js
-- PostgreSQL
-- Docker
-- TypeScript
-- Boas práticas de desenvolvimento escalável
 
 ---
 
@@ -126,18 +117,3 @@ https://github.com/llcfernandes/api-cadastro-de-usuarios-node
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=llcfernandes&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## 🤝 Contato
-
-<p align="left">
-  <a href="mailto:lucasmividi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/lucasfernandes-fullstack/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-### 🚀 Em busca de oportunidades como Desenvolvedor Full Stack Estagiário ou Desenvolvedor Júnior.

@@ -32,25 +32,43 @@ Tenho experiência com React, Node.js, Express.js, TypeScript, PostgreSQL, Mongo
 
 ## 🚀 Projeto Principal
 
-### 🍔 Dev Burguer API (Projeto Principal em Desenvolvimento)
+### 🍔 Dev Burguer API (Backend Finalizado | Front-End em Desenvolvimento)
 
-Backend de uma plataforma de pedidos para hamburgueria, desenvolvido para simular a arquitetura de aplicações reais utilizando Node.js, Express.js, PostgreSQL, Sequelize ORM, JWT e Docker.
+API REST desenvolvida para simular uma plataforma completa de pedidos para uma hamburgueria, aplicando conceitos utilizados em aplicações reais de mercado.
 
-Atualmente é meu principal projeto de desenvolvimento, onde aplico conceitos de autenticação, autorização, upload de imagens, persistência de dados, arquitetura MVC, validação de dados e escalabilidade de APIs REST.
+O projeto foi construído seguindo arquitetura MVC e utiliza PostgreSQL para gerenciamento dos dados relacionais (usuários, produtos e categorias) e MongoDB para persistência dos pedidos, explorando o melhor cenário para cada banco de dados.
 
-🚧 Em evolução contínua com novas funcionalidades:
+O backend conta com autenticação via JWT, controle de acesso por níveis de usuário, upload de imagens, relacionamento entre entidades, validação de dados e organização voltada para escalabilidade e manutenção.
 
-- Categorias de produtos
-- Sistema de pedidos
-- Controle de permissões
-- Integração com Front-End
-- Deploy em ambiente cloud
+✅ Funcionalidades implementadas:
 
-**Tecnologias:** Node.js, Express.js, PostgreSQL, Sequelize ORM, JWT, Docker, Multer, Yup e Arquitetura MVC.
+- Autenticação com JWT
+- Controle de acesso (Admin e Cliente)
+- Cadastro e login de usuários
+- CRUD completo de produtos
+- CRUD completo de categorias
+- Upload de imagens para produtos e categorias
+- Relacionamento entre Produtos e Categorias
+- Sistema completo de pedidos
+- Atualização do status dos pedidos
+- Persistência híbrida utilizando PostgreSQL e MongoDB
+- Arquitetura MVC
+- Validação de dados com Yup
+- Docker para gerenciamento dos bancos de dados
+
+**Tecnologias:** Node.js, Express.js, PostgreSQL, MongoDB, Sequelize ORM, Mongoose, JWT, Docker, Multer, Yup e Arquitetura MVC.
 
 🔗 Repositório:
 https://github.com/llcfernandes/dev-burguer-api
 
+🚧 Próximas etapas
+
+- Desenvolvimento do Front-End em React consumindo toda a API
+- Dashboard administrativo
+- Integração completa entre cliente e painel administrativo
+- Deploy da aplicação
+- Melhorias de performance e segurança
+  
 ---
 
 ## 📊 GitHub Analytics

@@ -4,7 +4,7 @@
 
 Sou Desenvolvedor Full Stack com foco em React e Node.js, apaixonado por construir aplicações web modernas, escaláveis e bem estruturadas.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos práticos voltados para desenvolvimento Full Stack, APIs REST, bancos de dados relacionais e arquitetura de software.
+Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos práticos voltados para desenvolvimento Full Stack, APIs REST, bancos de dados relacionais e arquitetura de software. 
 
 Tenho experiência com React, Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, Prisma ORM, Sequelize ORM, autenticação com JWT, Docker e integração entre front-end e back-end.
 

@@ -8,7 +8,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos pr
 
 Tenho experiência com React, Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, Prisma ORM, Sequelize ORM, autenticação com JWT, Docker e integração entre front-end e back-end.
 
-🎓 Análise e Desenvolvimento de Sistemas — UNESA
+🎓 Análise e Desenvolvimento de Sistemas — UNESA (2024 - 2027)
 
 🎯 Aberto a oportunidades como Desenvolvedor Full Stack Estagiário ou Desenvolvedor Júnior.
 

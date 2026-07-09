@@ -15,7 +15,7 @@ Tenho experiência com React, Node.js, Express.js, TypeScript, PostgreSQL, Mongo
 ---
 
 ## 🤝 Contato
-
+ 
 <p align="left">
   <a href="mailto:lucasmividi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-lucasmividi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />

@@ -54,7 +54,7 @@ O backend conta com autenticação via JWT, controle de acesso por níveis de us
 - Validação de dados com Yup
 - Docker para gerenciamento dos bancos de dados
 
-**Tecnologias:** Node.js, Express.js, PostgreSQL, MongoDB, Sequelize ORM, Mongoose, JWT, Docker, Multer, Yup e Arquitetura MVC.
+**Tecnologias:** Node.js, Express.js, PostgreSQL, MongoDB, Sequelize ORM, Mongoose, JWT, Docker, Multer, Yup e Arquitetura MVC. 
 
 🔗 Repositório:
 https://github.com/llcfernandes/dev-burguer-api

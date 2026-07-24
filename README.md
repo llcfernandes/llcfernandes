@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Lucas Fernandes
 
-Desenvolvedor Full Stack com foco em React e Node.js, apaixonado por construir aplicações web modernas, escaláveis e bem estruturadas. 
+Desenvolvedor Full Stack com foco em React e Node.js, apaixonado por construir aplicações web modernas, escaláveis e bem estruturadas.  
 
 Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos práticos voltados para desenvolvimento Full Stack, APIs REST, bancos de dados relacionais e arquitetura de software.  
 

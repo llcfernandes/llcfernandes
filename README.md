@@ -8,8 +8,6 @@ Tenho experiência com React, Node.js, Express.js, TypeScript, PostgreSQL, Mongo
 
 🎓 Análise e Desenvolvimento de Sistemas — UNESA (2024 - 2027)
 
-🎯 Aberto a oportunidades como Desenvolvedor Full Stack Estagiário ou Desenvolvedor Júnior.
-
 📚 Aprimorando conhecimentos em Arquitetura de Software, TypeScript, Node e Inglês para Tecnologia.
 
 ---
